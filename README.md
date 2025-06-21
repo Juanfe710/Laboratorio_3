@@ -1,7 +1,5 @@
 # Laboratorio 3 - Robótica
+Santiago Zamora Sosa - Juan Felipe Hincapie Gomez
 
-Santiago Zamora Sosa
+![Ciclide](https://github.com/user-attachments/assets/ff7c4623-a5e9-4e52-9566-5f44ba3ceb00)
 
-Juan Felipe Hincapie Gomez
-
-Ingeniería Mecatrónica
