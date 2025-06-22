@@ -5,6 +5,6 @@ En este repositorio se encuentra todo lo trabajado con el manipulador Motoman MH
 
 En la imagen se observa el resultado final de la trayectoria realizada en la simulación.
 
-
+00
 <img src="https://github.com/user-attachments/assets/ff7c4623-a5e9-4e52-9566-5f44ba3ceb00" alt="Ciclide" width="420"/>
 
