@@ -77,8 +77,8 @@ for i in range(num_points+1):
     r = (math.cos(2*theta))**2 + math.sin(5*theta)
 
     # Convertimos a coordenadas Cartesianas X, Y
-    x = 100 * r * math.cos(theta)
-    y = 100 * r * math.sin(theta)
+    x = 150 * r * math.cos(theta)
+    y = 150 * r * math.sin(theta)
 
     # Movemos linealmente (MoveL) en el plano del Frame
     robot.MoveL(transl(y, -x, z_surface))
