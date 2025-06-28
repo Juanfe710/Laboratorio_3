@@ -10,3 +10,4 @@ En la imagen se observa el resultado final de la trayectoria realizada en la sim
 
 
 El documento con el informe desarrollado se encuentra en 
+![Documento](https://github.com/Juanfe710/Laboratorio2_Robotica/blob/main/Simulacion/Video.md)
